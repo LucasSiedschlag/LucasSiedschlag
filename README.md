@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasSiedschlag
 - 👀 I’m interested in Tecnology
-- 🌱 I’m currently learning what I'm curious about
+- 🌱 I’m currently learning Front End devopment
 - 💞️ I’m looking to collaborate with the world
 - 📫 Brazil - SC
 

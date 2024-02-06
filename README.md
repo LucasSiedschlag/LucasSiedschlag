@@ -1,5 +1,5 @@
-# 👋 Hi there:
-I'm Lucas Siedschlag, a passionate software developer and tech enthusiast.<br>With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.<br><br>
+# 👋 Hi there
+I'm Lucas Siedschlag, a passionate software developer and tech enthusiast.<br>With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-siedschlag-dev) 
 

@@ -1,6 +1,7 @@
 # 👋 Hi there:
 I'm Lucas Siedschlag, a passionate software developer and tech enthusiast.<br>With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.<br><br>
-# 🚀 Expertise<br><br>• Skilled JavaScript developer with a passion for creating efficient, scalable, and user-friendly applications.<br>• Dedicated to leveraging my expertise to contribute to project success and drive continuous improvement.<br>• Additionally, my proficiency in graphic design and resource management enhances my ability to provide unique problem-solving approaches and develop creative solutions. 
+# 🚀 Expertise
+<br><br>• Skilled JavaScript developer with a passion for creating efficient, scalable, and user-friendly applications.<br>• Dedicated to leveraging my expertise to contribute to project success and drive continuous improvement.<br>• Additionally, my proficiency in graphic design and resource management enhances my ability to provide unique problem-solving approaches and develop creative solutions. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-siedschlag-dev) 
 

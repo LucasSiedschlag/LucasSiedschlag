@@ -37,9 +37,6 @@ I'm Lucas Siedschlag, a passionate software developer and tech enthusiast.<br>Wi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LucasSiedschlag&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 LucasSiedschlag/LucasSiedschlag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

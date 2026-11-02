@@ -38,7 +38,7 @@ jobs:
             --languages-output-file generated/languages.svg
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          EXCLUDE_REPOS: digitalinnovationone/dio-lab-open-source
+          EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
           EXCLUDE_LANGS: Zig
           EXCLUDE_PRIVATE: "false"
           EXCLUDE_INHERITED: "false"

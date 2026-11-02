@@ -27,7 +27,10 @@ Trainer Expert for Brazil in Industry 4.0, mentoring and training competitors fo
 
 ## GitHub
 
-<img alt="GitHub statistics" src="generated/overview.svg" />
+<p>
+  <img alt="GitHub statistics" src="generated/overview.svg" />
+  <img alt="Languages used" src="generated/languages.svg" />
+</p>
 
 ## Contact
 

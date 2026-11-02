@@ -39,7 +39,7 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
-          EXCLUDE_LANGS: Zig,HTML,CSS,Shell,Makefile,Java
+          EXCLUDE_LANGS: Zig,HTML,CSS,Shell,Makefile,Java,Batchfile,PowerShell,Inno Setup
           EXCLUDE_PRIVATE: "false"
           EXCLUDE_INHERITED: "false"
           SILENT: "true"

@@ -11,7 +11,7 @@ Trainer Expert for Brazil in Industry 4.0, mentoring and training competitors fo
 - 🥉 Bronze medal, 2023
 - 🥈 Silver medal, 2025
 
-## What I do
+## Core Skills
 
 - Backend services in Go, Python and .NET when a project requires it;
 - Operator-facing frontends for web and desktop;

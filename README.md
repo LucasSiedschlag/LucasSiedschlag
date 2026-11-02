@@ -27,7 +27,7 @@ Trainer Expert for Brazil in Industry 4.0, mentoring and training competitors fo
 
 ## GitHub
 
-<img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasSiedschlag&theme=default" />
+<img alt="GitHub statistics" src="generated/overview.svg" />
 
 ## Contact
 
